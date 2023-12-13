@@ -21,6 +21,8 @@ README.md
 </div>
 <p align="center">
     <a href="https://vuejs.org" target="_blank">
-        <img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo">
+        <img width="100" src="[https://vuejs.org/images/logo.png](https://img.shields.io/discourse/topics
+)https://img.shields.io/discourse/topics
+" alt="Vue logo">
     </a>
 </p>
