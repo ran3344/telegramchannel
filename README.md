@@ -13,34 +13,34 @@
 <td><a href="https://github.com/ran3344/telegramchannel/tree/main#%E7%A4%BE%E4%BC%9A%E8%B5%84%E8%AE%AF%E7%B1%BB">社会资讯</a> </td>  
     </tr>
 <tr>
-<td > <a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E5%AE%89%E5%8D%93pc%E7%A0%B4%E8%A7%A3%E8%BD%AF%E4%BB%B6%E5%8C%BA">频道推荐类</a></td>
-<td><a href="">博客内容</a>   </td>
+<td > <a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E9%A2%91%E9%81%93%E7%B4%A2%E5%BC%95%E5%AF%BC%E8%88%AA%E5%8C%BA">频道推荐类</a></td>
+<td><a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%E5%8C%BA">博客内容</a>   </td>
 </tr>
 
  <tr>
-<td><a href="">书籍分享 </a>   </td>
-<td><a href="">机场节点分享</a>   </td>
+<td><a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E4%B9%A6%E7%B1%8D%E5%88%86%E4%BA%AB%E5%8C%BA">书籍分享 </a>   </td>
+<td><a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%E5%8C%BA">机场节点分享</a>   </td>
     </tr>
   <tr>
-<td><a href="">资源分享</a>  </td>
-<td><a href="">网盘分享区(音乐，影视，各种文件）</a> </td>
+<td><a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E7%B1%BB">资源分享</a>  </td>
+<td><a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E7%BD%91%E7%9B%98%E5%88%86%E4%BA%AB%E5%8C%BA%E9%9F%B3%E4%B9%90%E5%BD%B1%E8%A7%86%E5%90%84%E7%A7%8D%E6%96%87%E4%BB%B6">网盘分享区(音乐，影视，各种文件）</a> </td>
 </tr>
 <tr>
-<td><a href="">安卓/pc软件破解 </a>  </td>
-<td><a href="">苹果破解软件/脚本</a>  </td>
+<td><a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E5%AE%89%E5%8D%93pc%E7%A0%B4%E8%A7%A3%E8%BD%AF%E4%BB%B6%E5%8C%BA">安卓/pc软件破解 </a>  </td>
+<td><a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E8%8B%B9%E6%9E%9C%E7%A0%B4%E8%A7%A3%E8%BD%AF%E4%BB%B6%E8%84%9A%E6%9C%AC%E5%8C%BA">苹果破解软件/脚本</a>  </td>
     </tr>
 
 <tr>
-<td><a href="">清纯美女图</a>  </td>
-<td><a href="">二次元美图</a>    </td>
+<td><a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E6%B8%85%E7%BA%AF%E7%BE%8E%E5%A5%B3%E5%9B%BE">清纯美女图</a>  </td>
+<td><a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E4%BA%8C%E6%AC%A1%E5%85%83%E7%BE%8E%E5%9B%BE">二次元美图</a>    </td>
 </tr>
 <tr>
-<td><a href="">壁纸分享区</a>  </td>
-<td><a href="">搞笑梗图区</a> </td>
+<td><a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E5%A3%81%E7%BA%B8%E5%88%86%E4%BA%AB%E5%8C%BA">壁纸分享区</a>  </td>
+<td><a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E6%90%9E%E7%AC%91%E6%A2%97%E5%9B%BE%E5%8C%BA">搞笑梗图区</a> </td>
 </tr>
 <tr>
-<td> <a href="">表情贴纸区</a>   </td>
-<td> <a href="">TG搜索机器人</a>   </td>
+<td> <a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E8%A1%A8%E6%83%85%E8%B4%B4%E7%BA%B8%E5%8C%BA">表情贴纸区</a>   </td>
+<td> <a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#tg%E6%90%9C%E7%B4%A2%E6%9C%BA%E5%99%A8%E4%BA%BA">TG搜索机器人</a>   </td>
 </tr>
 </table>
 
