@@ -13,7 +13,7 @@
     <tr>
 <td href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E5%AE%89%E5%8D%93pc%E7%A0%B4%E8%A7%A3%E8%BD%AF%E4%BB%B6%E5%8C%BA"> 频道推荐类</td>
 <td>  科技资讯 </td>
-<td>社会资讯 </td>
+<td>社会资讯 </td>  
     </tr>
  <tr>
 <td>博客内容   </td>
