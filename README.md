@@ -61,6 +61,7 @@
 #### [chatGPT中文社区](https://t.me/LptTech)
 #### [蓝点网订阅频道](https://t.me/landiansub)
 #### [Yummy 😋](https://t.me/GodlyNews1)
+#####  **[返回导航目录](https://github.com/ran3344/telegramchannel/blob/main/README.md#%E9%A2%91%E9%81%93%E7%9B%AE%E5%BD%95--%E7%82%B9%E5%87%BB%E5%8D%B3%E5%8F%AF%E8%AE%BF%E9%97%AE%E5%88%86%E7%B1%BB)**
 ****
 ### 社会资讯类    
 #### [联合早报 即时报道](https://t.me/zaobao_news)
@@ -69,6 +70,7 @@
 #### [校长读报](https://t.me/XiaoZhangDuBao)
 #### [【华尔街见闻】- 财经时讯](https://t.me/FinanceNewsDaily)
 #### [每天60秒简报💬 ](https://t.me/NEWSPJAPK)
+#####  **[返回导航目录](https://github.com/ran3344/telegramchannel/blob/main/README.md#%E9%A2%91%E9%81%93%E7%9B%AE%E5%BD%95--%E7%82%B9%E5%87%BB%E5%8D%B3%E5%8F%AF%E8%AE%BF%E9%97%AE%E5%88%86%E7%B1%BB)**
 ****
 ### 书籍分享区  
 #### [每天读本书[电子书/听书/期刊分享]](https://t.me/sharebooks4you)
@@ -77,6 +79,7 @@
 #### [Magazine｜期刊｜The Economist｜考研｜财新周刊｜TIME](https://t.me/Qikan2023)
 #### [[好读] ReadFine电子书屋](https://t.me/Readfine)
 #### [财新杂志分享](https://t.me/caixinsharing)
+#####  **[返回导航目录](https://github.com/ran3344/telegramchannel/blob/main/README.md#%E9%A2%91%E9%81%93%E7%9B%AE%E5%BD%95--%E7%82%B9%E5%87%BB%E5%8D%B3%E5%8F%AF%E8%AE%BF%E9%97%AE%E5%88%86%E7%B1%BB)**
 ****
 ### 博客内容区  
 #### [硬核小卒](https://t.me/yinghexiaozu)
@@ -87,6 +90,7 @@
 #### [笔记本：Lin's 文字世界 : 个人见闻/B站视频/网络见闻](https://t.me/LinsBookA)
 #### [Find Blog👁发现博客](https://t.me/FindBlog)
 #### [404 KIDS SEE GHOSTS](https://t.me/isaiahsystem)
+#####  **[返回导航目录](https://github.com/ran3344/telegramchannel/blob/main/README.md#%E9%A2%91%E9%81%93%E7%9B%AE%E5%BD%95--%E7%82%B9%E5%87%BB%E5%8D%B3%E5%8F%AF%E8%AE%BF%E9%97%AE%E5%88%86%E7%B1%BB)**
 ****
 ### 机场节点分享区  
 #### [SCP || 稳定免费节点](https://t.me/ShareCentrePro)
@@ -94,6 +98,7 @@
 #### [科学上网观察与机场测速](https://t.me/jichangtj)
 #### [ShareCentre](https://t.me/ShareCentre)
 #### [胖虎の收藏夹](https://t.me/gitbig/14)
+#####  **[返回导航目录](https://github.com/ran3344/telegramchannel/blob/main/README.md#%E9%A2%91%E9%81%93%E7%9B%AE%E5%BD%95--%E7%82%B9%E5%87%BB%E5%8D%B3%E5%8F%AF%E8%AE%BF%E9%97%AE%E5%88%86%E7%B1%BB)**
 ****
 ### 资源分享类  
 #### [APP喵-阿喵软件资源共享](https://t.me/appmew)
@@ -101,6 +106,7 @@
 #### [飞鱼资源分享|冲浪指南|软件破解](https://t.me/feiyu123)
 #### [极客分享](https://t.me/geekshare)
 #### [Widget🏂软件工具精选](https://t.me/WidgetChannel)
+#####  **[返回导航目录](https://github.com/ran3344/telegramchannel/blob/main/README.md#%E9%A2%91%E9%81%93%E7%9B%AE%E5%BD%95--%E7%82%B9%E5%87%BB%E5%8D%B3%E5%8F%AF%E8%AE%BF%E9%97%AE%E5%88%86%E7%B1%BB)**
 ****
 ###  安卓/pc破解软件区
 #### [擅长搜索的高木同学](https://t.me/gaomutongxue)
@@ -108,6 +114,7 @@
 #### [电脑破解免费分享](https://t.me/winmods)
 #### [破解之家](https://t.me/pojiezj)
 #### [精品软件分享（破解版）](https://t.me/pj_cn)
+#####  **[返回导航目录](https://github.com/ran3344/telegramchannel/blob/main/README.md#%E9%A2%91%E9%81%93%E7%9B%AE%E5%BD%95--%E7%82%B9%E5%87%BB%E5%8D%B3%E5%8F%AF%E8%AE%BF%E9%97%AE%E5%88%86%E7%B1%BB)**
 ****
 ### 苹果破解软件/脚本区 
 #### [宝藏资源分享](https://t.me/iosrxwy)
@@ -116,6 +123,7 @@
 #### [TKDASHEN](https://t.me/tkdashen)
 #### [QX & Surge & Loon 脚本收集](https://t.me/NobyDa)
 #### [叮当猫の分享频道](https://t.me/chxm1023)
+#####  **[返回导航目录](https://github.com/ran3344/telegramchannel/blob/main/README.md#%E9%A2%91%E9%81%93%E7%9B%AE%E5%BD%95--%E7%82%B9%E5%87%BB%E5%8D%B3%E5%8F%AF%E8%AE%BF%E9%97%AE%E5%88%86%E7%B1%BB)**
 ****
 ### 清纯美女图 
 #### [朱颜别镜 | 妹子图 | 美女图](https://t.me/meizitu3)
@@ -123,29 +131,34 @@
 #### [少女实在是太美好了](https://t.me/tastegirl)
 #### [白丝即正义](https://t.me/baisi)
 #### [JK精选](https://t.me/EnjoyJK) 
+#####  **[返回导航目录](https://github.com/ran3344/telegramchannel/blob/main/README.md#%E9%A2%91%E9%81%93%E7%9B%AE%E5%BD%95--%E7%82%B9%E5%87%BB%E5%8D%B3%E5%8F%AF%E8%AE%BF%E9%97%AE%E5%88%86%E7%B1%BB)**
 ****
 ### 二次元美图 
 #### [PIXIV站每日 Top50搬运|动漫|ACG|二次元|每日精选图片|動漫|P站](https://t.me/pixiv_top50)
 #### [萌图](https://t.me/ovov1234)
 #### [SomeACG | 每日少女壁纸 🫕](https://t.me/SomeACG)
 #### [🖼ANIME壁纸](https://t.me/acgwallpaper)
+#####  **[返回导航目录](https://github.com/ran3344/telegramchannel/blob/main/README.md#%E9%A2%91%E9%81%93%E7%9B%AE%E5%BD%95--%E7%82%B9%E5%87%BB%E5%8D%B3%E5%8F%AF%E8%AE%BF%E9%97%AE%E5%88%86%E7%B1%BB)**
 ****
 ### 壁纸分享区 
 #### [[Pixiv]wallpaper| 高质量插画壁纸](https://t.me/pixivshare)
 #### [WALLPAPER @Bestwallpapes](https://t.me/bestwallpapes)
 #### [精选壁纸美图｜风景美人acg](https://t.me/qing_01)
 #### [高分壁纸推荐|Anime gallery](https://t.me/acgzhenghe)
+#####  **[返回导航目录](https://github.com/ran3344/telegramchannel/blob/main/README.md#%E9%A2%91%E9%81%93%E7%9B%AE%E5%BD%95--%E7%82%B9%E5%87%BB%E5%8D%B3%E5%8F%AF%E8%AE%BF%E9%97%AE%E5%88%86%E7%B1%BB)**
 
 ****
 ### 表情贴纸区  
 #### [Trending Stickers 🍒](https://t.me/TrendingStickers)
 #### [Stickers](https://t.me/stickersey)
+#####  **[返回导航目录](https://github.com/ran3344/telegramchannel/blob/main/README.md#%E9%A2%91%E9%81%93%E7%9B%AE%E5%BD%95--%E7%82%B9%E5%87%BB%E5%8D%B3%E5%8F%AF%E8%AE%BF%E9%97%AE%E5%88%86%E7%B1%BB)**
 ****
 ### 搞笑梗图区
 #### [煎蛋无聊图](https://t.me/jandan_pic)
 #### [每日沙雕墙](https://t.me/woshadiao)
 #### [Foolish TraceWind](https://t.me/FoolishTraceWind)
 #### [平壤卫视](https://t.me/pingrangTV)
+#####  **[返回导航目录](https://github.com/ran3344/telegramchannel/blob/main/README.md#%E9%A2%91%E9%81%93%E7%9B%AE%E5%BD%95--%E7%82%B9%E5%87%BB%E5%8D%B3%E5%8F%AF%E8%AE%BF%E9%97%AE%E5%88%86%E7%B1%BB)**
 ****
 ### 网盘分享区(音乐，影视，各种文件）
 #### [阿里云盘4K影视](https://t.me/Aliyun_4K_Movies)
@@ -153,8 +166,10 @@
 #### [阿里云盘发布频道](https://t.me/Aliyundrive_Share_Channel)
 #### [国产动漫 Chinese animation](https://t.me/guo_man)
 #### [高画质动漫分享 Anime share](https://t.me/YXHMd)
+#####  **[返回导航目录](https://github.com/ran3344/telegramchannel/blob/main/README.md#%E9%A2%91%E9%81%93%E7%9B%AE%E5%BD%95--%E7%82%B9%E5%87%BB%E5%8D%B3%E5%8F%AF%E8%AE%BF%E9%97%AE%E5%88%86%E7%B1%BB)**
 
 ### TG搜索机器人
 #### [TG资源搜索大全|中转站](https://t.me/sogo333)
 #### [🔍极搜-中文搜索](t.me/jisou?start=a_1034670247)
 #### [SOSO 搜搜 🤖 中文搜索](https://t.me/soso?start=a_1034670247)
+#####  **[返回导航目录](https://github.com/ran3344/telegramchannel/blob/main/README.md#%E9%A2%91%E9%81%93%E7%9B%AE%E5%BD%95--%E7%82%B9%E5%87%BB%E5%8D%B3%E5%8F%AF%E8%AE%BF%E9%97%AE%E5%88%86%E7%B1%BB)**
