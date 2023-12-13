@@ -70,6 +70,7 @@
 #### [校长读报](https://t.me/XiaoZhangDuBao)
 #### [【华尔街见闻】- 财经时讯](https://t.me/FinanceNewsDaily)
 #### [每天60秒简报💬 ](https://t.me/NEWSPJAPK)
+#### [我的一张大字报](https://t.me/myBigCharacterPoster)
 #####  **[返回导航目录](https://github.com/ran3344/telegramchannel/blob/main/README.md#%E9%A2%91%E9%81%93%E7%9B%AE%E5%BD%95--%E7%82%B9%E5%87%BB%E5%8D%B3%E5%8F%AF%E8%AE%BF%E9%97%AE%E5%88%86%E7%B1%BB)**
 ****
 ### 书籍分享区  
