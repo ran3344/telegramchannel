@@ -52,7 +52,7 @@
 #### [Akisaka索引导航](https://t.me/sosopd)
 #### [电报群组&频道](https://t.me/tl_gc)
 #### [Naruto频道推荐 ](https://t.me/AChansp)
-#####  ***[返回导航目录]()***
+#####  **[返回导航目录](https://github.com/ran3344/telegramchannel/blob/main/README.md#%E9%A2%91%E9%81%93%E7%9B%AE%E5%BD%95--%E7%82%B9%E5%87%BB%E5%8D%B3%E5%8F%AF%E8%AE%BF%E9%97%AE%E5%88%86%E7%B1%BB)**
 ****
 ### 科技资讯类 
 #### [科技新闻投稿🆕 TestFlight](https://t.me/TestFlightCN)
