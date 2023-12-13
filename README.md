@@ -9,8 +9,8 @@
  <table>
 <tr><td colspan="2" align="center"> <b><h4>频道目录 | 点击即可访问分类</h4></b></td> </tr>
     <tr>
-<td> <a href="">科技资讯</a> </td>
-<td><a href="">社会资讯</a> </td>  
+<td> <a href="https://github.com/ran3344/telegramchannel/tree/main#%E7%A7%91%E6%8A%80%E8%B5%84%E8%AE%AF%E7%B1%BB">科技资讯</a> </td>
+<td><a href="https://github.com/ran3344/telegramchannel/tree/main#%E7%A4%BE%E4%BC%9A%E8%B5%84%E8%AE%AF%E7%B1%BB">社会资讯</a> </td>  
     </tr>
 <tr>
 <td > <a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E5%AE%89%E5%8D%93pc%E7%A0%B4%E8%A7%A3%E8%BD%AF%E4%BB%B6%E5%8C%BA">频道推荐类</a></td>
