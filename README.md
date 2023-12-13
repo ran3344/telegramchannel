@@ -11,18 +11,24 @@
  <table>
 <tr><td colspan="3" align="center"> <b><h4>频道目录 | 点击即可访问分类</h4></b></td> </tr>
     <tr>
-<td > <a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E5%AE%89%E5%8D%93pc%E7%A0%B4%E8%A7%A3%E8%BD%AF%E4%BB%B6%E5%8C%BA">频道推荐类</a></td>
 <td>  <a href="">科技资讯</a> </td>
 <td><a href="">社会资讯</a> </td>  
     </tr>
- <tr>
+<tr>
+<td > <a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E5%AE%89%E5%8D%93pc%E7%A0%B4%E8%A7%A3%E8%BD%AF%E4%BB%B6%E5%8C%BA">频道推荐类</a></td>
 <td><a href="">博客内容</a>   </td>
+</tr>
+ <tr>
+
 <td><a href="">书籍分享 </a>   </td>
 <td><a href="">机场节点分享</a>   </td>
     </tr>
-  
-<tr>
+  <tr>
 <td><a href="">资源分享</a>  </td>
+<td><a href="">网盘分享区(音乐，影视，各种文件）</a> </td>
+</tr>
+<tr>
+
 <td><a href="">安卓/pc软件破解 </a>  </td>
 <td><a href="">苹果破解软件/脚本</a>  </td>
     </tr>
@@ -30,13 +36,16 @@
 <tr>
 <td><a href="">清纯美女图</a>  </td>
 <td><a href="">二次元美图</a>    </td>
-<td><a href="">壁纸分享区</a>  </td>
-    </tr>
 
+    </tr>
 <tr>
-<td><a href="">网盘分享区(音乐，影视，各种文件）</a> </td>
-<td> <a href="">表情贴纸区</a>   </td>
+<td><a href="">壁纸分享区</a>  </td>
 <td><a href="">搞笑梗图区</a> </td>
+</tr>
+<tr>
+<td> <a href="">表情贴纸区</a>   </td>
+<td> <a href="">TG搜索机器人</a>   </td>
+
     </tr>
 
 </table>
@@ -150,4 +159,7 @@
 #### [国产动漫 Chinese animation](https://t.me/guo_man)
 #### [高画质动漫分享 Anime share](https://t.me/YXHMd)
 
-
+### TG搜索机器人
+#### [TG资源搜索大全|中转站](https://t.me/sogo333)
+#### [🔍极搜-中文搜索](t.me/jisou?start=a_1034670247)
+#### [SOSO 搜搜 🤖 中文搜索](https://t.me/soso?start=a_1034670247)
