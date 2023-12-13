@@ -19,3 +19,8 @@ README.md
 <div align="center">
     <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai">
 </div>
+<p align="center">
+    <a href="https://vuejs.org" target="_blank">
+        <img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo">
+    </a>
+</p>
