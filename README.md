@@ -18,7 +18,7 @@
 </tr>
 
  <tr>
-<td><a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E4%B9%A6%E7%B1%8D%E5%88%86%E4%BA%AB%E5%8C%BA">书籍分享 </a>   </td>
+<td><a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E4%B9%A6%E7%B1%8D%E5%88%86%E4%BA%AB%E5%8C%BA">书籍杂志区 </a>   </td>
 <td><a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%E5%8C%BA">机场节点分享</a>   </td>
     </tr>
   <tr>
@@ -73,13 +73,14 @@
 #### [我的一张大字报](https://t.me/myBigCharacterPoster)
 #####  **[返回导航目录](https://github.com/ran3344/telegramchannel/blob/main/README.md#%E9%A2%91%E9%81%93%E7%9B%AE%E5%BD%95--%E7%82%B9%E5%87%BB%E5%8D%B3%E5%8F%AF%E8%AE%BF%E9%97%AE%E5%88%86%E7%B1%BB)**
 ****
-### 书籍分享区  
+### 书籍杂志区  
 #### [每天读本书[电子书/听书/期刊分享]](https://t.me/sharebooks4you)
 #### [外滩读书会-最新报纸、杂志、财经报告及流行电子书分享](https://t.me/readingclubus)
 #### [PDF图书联盟|电子书|ebook📖](https://t.me/PDFtushuguan)
 #### [Magazine｜期刊｜The Economist｜考研｜财新周刊｜TIME](https://t.me/Qikan2023)
 #### [[好读] ReadFine电子书屋](https://t.me/Readfine)
 #### [财新杂志分享](https://t.me/caixinsharing)
+#### [马列毛主义与革命左翼图书馆](https://t.me/taipingtianguo)
 #####  **[返回导航目录](https://github.com/ran3344/telegramchannel/blob/main/README.md#%E9%A2%91%E9%81%93%E7%9B%AE%E5%BD%95--%E7%82%B9%E5%87%BB%E5%8D%B3%E5%8F%AF%E8%AE%BF%E9%97%AE%E5%88%86%E7%B1%BB)**
 ****
 ### 博客内容区  
