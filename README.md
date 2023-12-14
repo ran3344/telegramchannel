@@ -171,6 +171,6 @@
 
 ### TG搜索机器人
 #### [TG资源搜索大全|中转站](https://t.me/sogo333)
-#### [🔍极搜-中文搜索](t.me/jisou?start=a_1034670247)
+#### [🔍极搜-中文搜索](https://t.me/jisou?start=a_1034670247)
 #### [SOSO 搜搜 🤖 中文搜索](https://t.me/soso?start=a_1034670247)
 #####  **[返回导航目录](https://github.com/ran3344/telegramchannel/blob/main/README.md#%E9%A2%91%E9%81%93%E7%9B%AE%E5%BD%95--%E7%82%B9%E5%87%BB%E5%8D%B3%E5%8F%AF%E8%AE%BF%E9%97%AE%E5%88%86%E7%B1%BB)**
